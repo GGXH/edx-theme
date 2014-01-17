@@ -10,8 +10,8 @@
 //-----------------
 
 //Cardinal Color Variables
-$cardinal-red: #8C1515;
-$dark-red: #820000; //Link Color
+$cardinal-red: rgb(78, 176, 187);
+$dark-red: rgb(205, 63, 55); //Link Color
 $cardinal-light: #c83737; //Selected Header BG Color, ie. calendar        ***Custom, not from palette***
 $cardinal-bg: #e9afaf; //Selected Content BG Color, ie. calendar          ***Custom, not from palette***
 
@@ -182,7 +182,7 @@ $footer_margin: ($baseline/4) 0;
 //-----------------
 //  CSS BG Images
 //-----------------
-$homepage-bg-image: '../themes/zipfian/images/stanford-pano.jpg';
+$homepage-bg-image: '../themes/zipfian/images/zipfian-city.jpg';
 
 $login-banner-image: none;
 $register-banner-image: none;
